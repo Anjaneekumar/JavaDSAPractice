@@ -11,9 +11,6 @@ public class RotateMatrix {
         };
         System.out.println("Normal: ");
         printMatrix(matrix_4x4);
-        // System.out.println("Transpose: ");
-        // transposeMatrix(matrix_4x4);
-        // printMatrix(matrix_4x4);
 
         System.out.println("Rotate 90 degree: ");
         rotate90Degree(matrix_4x4);
